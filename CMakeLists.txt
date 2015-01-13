@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 2.8)
 project(minizip)
 
 set(zip_SRCS zip.c unzip.c ioapi.c)
